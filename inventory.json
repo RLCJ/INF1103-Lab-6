@@ -1,0 +1,38 @@
+[
+    {
+        "id": "8001",
+        "name": "Sweet Madame",
+        "price": 9.5,
+        "stock": 1659
+    },
+    {
+        "id": "8002",
+        "name": "Lavender Melon",
+        "price": 8.0,
+        "stock": 11
+    },
+    {
+        "id": "8003",
+        "name": "Ghost Pie",
+        "price": 15.0,
+        "stock": 3172
+    },
+    {
+        "id": "8004",
+        "name": "Beetle Soup",
+        "price": 5.0,
+        "stock": 456
+    },
+    {
+        "id": "8005",
+        "name": "The Flood",
+        "price": 3.43,
+        "stock": 343
+    },
+    {
+        "id": "8006",
+        "name": "MyOwnSWAT",
+        "price": 50.0,
+        "stock": 30
+    }
+]
